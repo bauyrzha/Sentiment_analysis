@@ -24,3 +24,11 @@ For sentiment analysis I used textblob library which is another extremely powerf
 command: python .\Yerke_sentiment_analysis.py
 purpose: read data from main folder, and do analysis.  
 result: a plot of the number of messages per day and the average sentiment per day
+
+Summary:
+
+We can conclude that:
+
+There were more negative messages on May 5, 2021 and May 11, 2021.
+
+There were more positive messages on other days.

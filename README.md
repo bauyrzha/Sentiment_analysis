@@ -14,12 +14,7 @@ Please check out requirements.txt to know about requirements according to softwa
 
 4. Libraries used in this project:
 
-json
-pandas
-re
-tqdm 
-textblob
-plotly.express
+json, pandas, re, tqdm, textblob, plotly.express
 
 For sentiment analysis I used textblob library which is another extremely powerful NLP library for Python. TextBlob is built upon NLTK and provides an easy to use interface to the NLTK library. We will see how TextBlob can be used to perform a variety of NLP tasks ranging from parts-of-speech tagging to sentiment analysis, and language translation to text classification.. 
 

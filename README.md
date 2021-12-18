@@ -25,6 +25,7 @@ For sentiment analysis I used textblob library which is another extremely powerf
 
 5. How to run Yerke_sentiment_analysis.py from the command line:
 
+
 command: python .\Yerke_sentiment_analysis.py
 purpose: read data from main folder, and do analysis.  
 result: a plot of the number of messages per day and the average sentiment per day
